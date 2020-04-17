@@ -1,6 +1,6 @@
 # Slick Example #
 
-Corresponds to the guide at [http://scalatra.org/guides/2.6/persistence/slick.html](http://scalatra.org/guides/2.6/persistence/slick.html)
+Corresponds to the guide at [http://scalatra.org/guides/2.7/persistence/slick.html](http://scalatra.org/guides/2.6/persistence/slick.html)
 
 ## Build & Run ##
 
