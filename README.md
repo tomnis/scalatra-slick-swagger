@@ -5,8 +5,6 @@ Corresponds to the guide at [http://scalatra.org/guides/2.6/persistence/slick.ht
 ## Build & Run ##
 
 ```sh
-$ git clone https://github.com/scalatra/scalatra-website-examples.git
-$ cd scalatra-website-examples/2.6/persistence/scalatra-slick
 $ chmod +x sbt
 $ ./sbt ~jetty:start
 ```
